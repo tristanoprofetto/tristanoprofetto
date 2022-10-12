@@ -1,4 +1,5 @@
-Hi, I’m Tristano, I’m passionate about the field of AI and ML
+Hi, I’m Tristano, I’m passionate about the field of AI/ML
+* I am currently working as a Machine Learning Engineer
 * I’m looking to collaborate on ANYTHING related to Machine Learning or other intelligent systems
 * How to reach me: LinkedIn or Twitter 
 
